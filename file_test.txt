@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hello gays !!!!!!
 i do the first change!!!!
 i do the second change!!!!
 i do the third change!!!!
+=======
+hello gays !!!!!!
+>>>>>>> parent of ac2138c (first change)
